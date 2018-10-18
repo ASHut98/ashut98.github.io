@@ -39,26 +39,26 @@ icon: icon-html
 ## Current Outputs
 
 ##### `Text : flat screen television on top of an old tv console`  
-![](models/coco_AttnGAN2/example_captions/0_s_11_g2.png)
-![](models/coco_AttnGAN2/example_captions/0_s_11_a1.png)
+![](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptionsmodels/coco_AttnGAN2/example_captions/0_s_11_g2.png)
+![](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptionsmodels/coco_AttnGAN2/example_captions/0_s_11_a1.png)
 
 
 ##### `Text : a large red and white boat floating on top of a lake`  
-![](models/coco_AttnGAN2/example_captions/0_s_3_g2.png)
-![](models/coco_AttnGAN2/example_captions/0_s_3_a1.png)
+![](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptionsmodels/coco_AttnGAN2/example_captions/0_s_3_g2.png)
+![](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptionsmodels/coco_AttnGAN2/example_captions/0_s_3_a1.png)
 
 
 ##### `TEXT :this bird is red and white in color with a stubby beak and red eye rings`  
-![](models/bird_AttnGAN2/next/0_s_3_g2.png)
-![](models/bird_AttnGAN2/next/0_s_3_a1.png)
+![](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/models/bird_AttnGAN2/next/0_s_3_g2.png)
+![](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/models/bird_AttnGAN2/next/0_s_3_a1.png)
 
 ##### `Text : this bird is yellow with black on its head and has a very short beak`  
-![](models/bird_AttnGAN2/next/0_s_0_g2.png)
-![](models/bird_AttnGAN2/next/0_s_0_a1.png)
+![](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/models/bird_AttnGAN2/next/0_s_0_g2.png)
+![](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/models/bird_AttnGAN2/next/0_s_0_a1.png)
 
 
 ##### Caption Generation with Attention:    
-![](output/coco_DAMSM_2018_10_10_04_42_55/Image/attention_maps0.png)
+![](https://github.com/ASH1998/Deep-Representation-of-Visual-Descriptions/output/coco_DAMSM_2018_10_10_04_42_55/Image/attention_maps0.png)
 
 
 ## Contributors
