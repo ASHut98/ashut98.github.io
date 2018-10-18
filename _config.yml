@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I am Ashutosh Mishra. I am from Bhubaneswar, Odisha. I am interested in machine learning and Artificial Intelligence. I am a curious bug. I love how the ML is changing the world. I would love to be in the front of the war for AI.  # Describe yourself.
+  desc: Hello  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
