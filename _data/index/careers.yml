@@ -41,3 +41,33 @@
     detail: Student
     i18n: company_c_job
   icon: fa-plus-square
+
+
+- name:
+    detail: B. Tech
+    i18n: company_c
+  desc:
+    detail: I worked at Company B ...
+    i18n: company_c_desc
+  date:
+    detail: Apr. 2019
+    i18n: company_c_date
+  job:
+    detail: Student
+    i18n: company_c_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: B. Tech
+    i18n: company_c
+  desc:
+    detail: I worked at Company B ...
+    i18n: company_c_desc
+  date:
+    detail: Apr. 2019
+    i18n: company_c_date
+  job:
+    detail: Student
+    i18n: company_c_job
+  icon: fa-plus-square
