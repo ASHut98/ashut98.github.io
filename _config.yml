@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Ashutosh  # Be used at blog posts' author.
   first_name: Ashutosh  # Be used at index page about me section.
   last_name: Mishra  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar2.jpg  # upload your avatar at directory and edit it.
   github_username: ASHut98  # Leave blank if you don't have now
   linkedin_id: ashutosh-mishra-a1ba01142 # Leave blank if you don't have now
   facebook_username: Ashutosh  # Leave blank if you don't have now
