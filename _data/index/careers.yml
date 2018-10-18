@@ -32,7 +32,8 @@
     detail: IntelIndexer LLC
     i18n: company_b
   desc:
-    detail: Process economic/finance domain algorithms and methods for feature extraction.Use LSTM, Dynamic Time Wraping, Clustering and scalable methods to build prediction system.Create a GDP prediction system with 5% more accurate than IMF.    i18n: company_b_desc
+    detail: Process economic and finance domain algorithms and methods for feature extraction.Use LSTM,Dynamic Time Wraping, Clustering and scalable methods to build prediction system.Create a GDP prediction system with 5% more accurate than IMF. 
+    i18n: company_b_desc
   date:
     detail: Jan. 2018
     i18n: company_b_date
