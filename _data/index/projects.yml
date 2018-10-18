@@ -20,3 +20,24 @@
   url: https://google.com
   img: /static/assets/img/landing/google.png
   desc: This is another project.
+
+- name: Face_eyes_smile-detection
+  i18n: jalpc
+  gh_user: ASH1998
+  repo: Face_eyes_smile-detection
+  img: /static/assets/img/landing/jekyll.png
+  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+
+- name: Face_eyes_smile-detection
+  i18n: jalpc
+  gh_user: ASH1998
+  repo: Face_eyes_smile-detection
+  img: /static/assets/img/landing/jekyll.png
+  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+
+- name: Face_eyes_smile-detection
+  i18n: jalpc
+  gh_user: ASH1998
+  repo: Face_eyes_smile-detection
+  img: /static/assets/img/landing/jekyll.png
+  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
